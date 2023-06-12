@@ -1,0 +1,104 @@
+
+/* index page styling*/
+
+#container {
+    background-color: rgb(183, 185, 255);
+    border: 10px;
+}
+
+.heading {
+    background-color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 80px;
+}
+
+.indexpara {
+    text-align: center;
+}
+
+.recipe {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgb(0, 8, 53);
+}
+
+/* the recipe pages styling */
+
+  /* individual page stylings */
+
+       /* lasagna */
+
+#lasagnahead {
+    color: orange;
+    background-color: grey;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+#lasagnacont {
+    background-color: rgb(255, 201, 156);
+}
+
+      /* tuna salad */
+
+#tunahead {
+    color: rgb(54, 255, 54);
+    background-color: grey;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+#tunacont {
+    background-color: rgb(149, 255, 154);
+}
+
+      /* chinese stir fry */
+
+#chinesehead {
+    color: rgba(126, 40, 0, 0.932);
+    background-color: grey;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+#chinesecont {
+    background-color: rgb(255, 146, 119);
+}
+
+  /* all recipe pages */
+
+ .images {
+    height: auto;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ .recipehead {
+    color: whitesmoke;
+    background-color: black;
+    text-align: center;
+ }
+
+ .ingredients {
+    background-color: rgb(209, 209, 209);
+    font-weight: bold;
+ }
+
+ .methods {
+    background-color: rgb(100, 100, 100);
+    color: whitesmoke;
+
+ }
